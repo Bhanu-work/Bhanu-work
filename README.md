@@ -1,4 +1,7 @@
-### Here is what im working on 👋
+### Hi there, I'm - Bhanu Kiran 👋 👋
+
+I'm a Creative UI Design & Development with 2+ years of extensive knowledge in designing and implementing Enterprise applications, Client /Server applications, Database Driven Web-based applications, UI development and architecture in Agile/Scrum methodology within highly competitive markets.who is passionate about making open-source more accessible, creating technology to elevate people. Some technologies I enjoy working with include AngularJS, ReactJS.
+
 
 Here are some ideas to get you started:
 
